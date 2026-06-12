@@ -2,8 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>
-      <h1>hello prajjval i think you are going good</h1>
+    <div className='parents'>
     </div>
   )
 }
